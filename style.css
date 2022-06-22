@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+   height: 183px;
+    background-color: brown;
+    display: block;
+   margin: 10px auto;
+    align-items: center;
+    width: 300px
+    ;
+    align-self: center;
+}
+h1, h2{
+    
+    text-align: center;
+}
+button{
+    align-content: center;
+}
+#increment-btn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    display: block;
+    width: 140px;
+    margin: 10px auto;
+    padding: 8px 12px;
+    text-align: center;
+    
+}
+
+#save-btn{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    display: block;
+    width: 140px;
+    margin: 10px auto;
+    padding: 8px 12px;
+    text-align: center;
+}
